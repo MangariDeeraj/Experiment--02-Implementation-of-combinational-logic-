@@ -31,7 +31,7 @@ RegisterNumber:
 ## RTL realization
 
 ## Output:
-![Screenshot 2023-11-27 212318](https://github.com/MangariDeeraj/Experiment--02-Implementation-of-combinational-logic-/assets/149365485/22e32887-73c8-4444-8aa4-aa10f4836763)
+![Screenshot 2023-11-27 212612](https://github.com/MangariDeeraj/Experiment--02-Implementation-of-combinational-logic-/assets/149365485/bfc3c08e-c919-4b39-ae75-4f82cd47d1d3)
 
 ## RTL
 ## Timing Diagram
